@@ -1,4 +1,4 @@
-# Landing for Contest #1
+# [Landing for Contest #1](https://rawgit.com/romabiker/30_clash_of_markups/master/index.html)
 
 It`s a landing page for the contest of the Python programmers. Work is still in progress. Only a static HTML page is available now.
 
